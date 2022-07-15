@@ -6,4 +6,4 @@ function render() {
   divEl.textContent = 'text in a div, hug me im even lonelier now!!'
   mainEl.append(divEl);
 }
-render();
+render()
